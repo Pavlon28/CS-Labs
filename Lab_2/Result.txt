@@ -1,0 +1,62 @@
+THE TEXT:
+polybius and others never said whether any of the substitutionciphers they described were
+actually used, and so the first attested use ofthat genre in political affairs come from the
+romans — and from the greatest roman of them all. juliuscaesar thus impressed his name
+permanently into cryptology.it must be that as soon as a culture has reached a certain
+level,probably measured largely by its literacy, cryptography appearsspontaneously — as its
+parents, language and writing, probably also did.the multiple human needs and desires that demand
+privacy among twoor more people in the midst of social life must inevitably lead tocryptology
+wherever men thrive and wherever they write. culturaldiffusion seems a less likely explanation
+for its occurrence in. so manyareas, many of them distant and isolated.the yezidis, an obscure
+sect of about w5,000 people in, northern iraq,use a cryptic script in their holy books because
+they fear persecution bytheir moslem neighbors. tibetans use a kind of cipher called "rin-
+spuns"for official correspondence; it is named for its inventor rin-c'(hhen-)spuns(-pa), who
+lived in the 1300s. the nsibidi secret society of nigeriakeeps its pictographic script
+from europeans as much as possiblebecause it is used chiefly to express love in rather direct
+imagery, andsamples appear to be at least as pornographic as they are cryptographic.the cryptography
+of thailand developed under indian influence. anembryonic study of the subject even appears
+in a grammatical workentitled poranavakya by hluang prasot aksaraniti (phe). one system,called
+"the erring siamese," substitutes one delicate siamese letter foranother. in another
+system, consonants are divided into seven groups of five letters;a letter is indicated by
+writing the siamese number of its group andplacing vertical dots under it equal in number to
+the letter's place in itsgroup. a system called "the hermit metamorphosing letters" writes
+thetext backwards.in the europe of the latin alphabet—from which modern cryptologywould
+spring—cryptography flickered weakly. with the collapse of theroman empire, europe had plunged
+into the obscurity of the dark ages.literacy had all but disappeared. arts and sciences were
+forgotten, andcryptography was not excepted. only during the middle ages
+occasionalmanuscripts, with an infrequent signature or gloss or "deo gratias" that abored monk
+put into cipher to amuse himself, fitfully illuminate thecryptologic darkness, and, like a
+single candle guttering in a greatmedieval hall, their feeble flarings only emphasize the
+gloom.the systems used were simple in the extreme. phrases were writtenvertically or backwards;
+dots were substituted for vowels;foreign alphabets, as greek, hebrew, and armenian, were used;
+eachletter of the plaintext was replaced by the one that follows it; in the mostadvanced
+system, special signs substituted for letters. for almost athousand years, from before 500
+to 1400, the cryptology of westerncivilization stagnated.
+
+ALPHABET:
+V         e
+T         a
+G         n
+O         d
+K         v
+W         t
+Q         h
+I         r
+F         y
+P         s
+C         f
+N         o
+Z         m
+X         i
+A         b
+J         g
+D         u
+R         w
+S         l
+H         c
+U         p
+M         z
+Y         x
+E         j
+B         q
+L         k
