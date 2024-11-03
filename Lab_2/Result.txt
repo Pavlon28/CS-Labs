@@ -7,7 +7,7 @@ level,probably measured largely by its literacy, cryptography appearsspontaneous
 parents, language and writing, probably also did.the multiple human needs and desires that demand
 privacy among twoor more people in the midst of social life must inevitably lead tocryptology
 wherever men thrive and wherever they write. culturaldiffusion seems a less likely explanation
-for its occurrence in. so manyareas, many of them distant and isolated.the yezidis, an obscure
+for its occurrence in. so manyareas, many of them distant and isolated. the yezidis, an obscure
 sect of about w5,000 people in, northern iraq,use a cryptic script in their holy books because
 they fear persecution bytheir moslem neighbors. tibetans use a kind of cipher called "rin-
 spuns"for official correspondence; it is named for its inventor rin-c'(hhen-)spuns(-pa), who
@@ -22,7 +22,7 @@ writing the siamese number of its group andplacing vertical dots under it equal 
 the letter's place in itsgroup. a system called "the hermit metamorphosing letters" writes
 thetext backwards.in the europe of the latin alphabet—from which modern cryptologywould
 spring—cryptography flickered weakly. with the collapse of theroman empire, europe had plunged
-into the obscurity of the dark ages.literacy had all but disappeared. arts and sciences were
+into the obscurity of the dark ages. literacy had all but disappeared. arts and sciences were
 forgotten, andcryptography was not excepted. only during the middle ages
 occasionalmanuscripts, with an infrequent signature or gloss or "deo gratias" that abored monk
 put into cipher to amuse himself, fitfully illuminate thecryptologic darkness, and, like a
